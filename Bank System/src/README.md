@@ -239,15 +239,15 @@ first customer still correctly reaches `customers[0]`.
 
 ## Screenshots
 
-Add Customer
+Add Customer <br>
 ![alt text](AddCustomer.png) <br>
-Add Account
+Add Account <br>
 ![alt text](AddAccount.png) <br>
-Deposit
+Deposit <br>
 ![alt text](Deposit.png) <br>
-Withdraw
+Withdraw <br>
 ![alt text](Withdraw.png) <br>
-List Customer and Exit
+List Customer and Exit <br>
 ![alt text](ListCustomer.png) <br>
 
 ## Design notes
