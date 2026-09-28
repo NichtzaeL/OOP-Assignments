@@ -84,8 +84,6 @@ public class Main {
         }
     }
 
-    // ---------- helpers ----------
-
     private static boolean isFull() {
         if (numberOfShapes >= shapes.length) {
             System.out.println("-> Storage full, cannot add more shapes.");
